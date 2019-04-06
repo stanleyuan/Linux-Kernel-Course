@@ -1,0 +1,35 @@
+&i = 0x7ffec2fb04fc
+a: -1
+b: -1
+c: -4
+d: -1
+&i = 0x7ffd906b4e8c
+a: -1
+b: -1
+c: -4
+d: 0
+&i = 0x7ffd674e848c
+a: -1
+b: -1
+c: -4
+d: 0
+&i = 0x7ffd3c5def4c
+a: -1
+b: -1
+c: -4
+d: -4
+&i = 0x7fff8ec9e8cc
+a: -1
+b: -1
+c: -4
+d: -4
+&i = 0x7ffc5521ce8c
+a: -1
+b: -1
+c: -4
+d: 0
+&i = 0x7fff164d922c
+a: -1
+b: -1
+c: -4
+d: 2
